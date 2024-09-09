@@ -1,1 +1,1 @@
-Invoke-WebRequest -Uri "https://massgrave.dev/get" | Invoke-Expression
+irm https://get.activated.win | iex
